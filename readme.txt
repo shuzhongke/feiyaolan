@@ -6,5 +6,9 @@ My stupid boss still prefers SVN.ddddd
 
 
 aaaa 9.28
+<<<<<<< HEAD
 
 cccc master 9.33
+=======
+bbbbb.9.32
+>>>>>>> feature1
